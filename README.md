@@ -1,1 +1,8 @@
-# ATIVIDADE
+# 📝 Entrega do Exercício 01 - Programação Web
+
+- **Aluno:** [ Ryan Cascaes Viana]
+- **Turma:** [ 101/int ]
+- **Data de Entrega:** [ 30/09/2026 ]
+
+---
+**Professor responsável:** @eduardo97mendes
